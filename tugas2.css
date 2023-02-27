@@ -1,0 +1,45 @@
+#bodyarea{
+    background-color:#ffffff!important;
+    width:75%;
+    min-height:250px;
+    float:middle;
+    text-align:justify;
+    padding-top:20px;
+}
+#main{
+    width:100%;
+    min-height:250px;
+    background-color:#ffffff!important;
+}
+#sidebar{
+    background-color:#D0CECF!important;
+    width:23%;
+    min-height:250px;
+    float:left;
+    font-family:arial;
+    text-align:left;
+    margin-right:1%;
+    font-size:14px;
+    padding-top:20px;
+}
+
+#top{
+    background-color:#FFFF00!important;
+    color:black;
+    height:50px;
+    text-align:center;
+    align-self:normal;
+    line-height:50px;
+}
+footer{
+    text-align: center;
+    background-color:#FFC000!important;
+}
+#deskripsi{
+    align-self:self-end;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#gambar{
+    float:right;
+    min-height: 250px;
+}
